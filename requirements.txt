@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+python-telegram-bot
+Alembic
+psycopg2-binary
+cryptography
+pycryptodome
