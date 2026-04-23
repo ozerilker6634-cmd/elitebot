@@ -1,0 +1,57 @@
+{
+    "BR-1775648943-776": {
+        "request_id": "BR-1775648943-776",
+        "user_id": 1927811621,
+        "name": "Eretna",
+        "username": "@agevlek",
+        "coin": "LTC",
+        "network": "Litecoin",
+        "usd_amount": 10.0,
+        "status": "pending_manual_payment",
+        "time": "2026-04-08 14:49:03"
+    },
+    "BR-1775656559-371": {
+        "request_id": "BR-1775656559-371",
+        "user_id": 1927811621,
+        "name": "Eretna",
+        "username": "@agevlek",
+        "coin": "LTC",
+        "network": "Litecoin",
+        "usd_amount": 10.0,
+        "status": "pending_manual_payment",
+        "time": "2026-04-08 16:55:59"
+    },
+    "BR-1775657216-412": {
+        "request_id": "BR-1775657216-412",
+        "user_id": 1927811621,
+        "name": "Eretna",
+        "username": "@agevlek",
+        "coin": "LTC",
+        "network": "Litecoin",
+        "usd_amount": 10.0,
+        "status": "pending_manual_payment",
+        "time": "2026-04-08 17:06:56"
+    },
+    "BR-1775657250-917": {
+        "request_id": "BR-1775657250-917",
+        "user_id": 1927811621,
+        "name": "Eretna",
+        "username": "@agevlek",
+        "coin": "LTC",
+        "network": "Litecoin",
+        "usd_amount": 15.0,
+        "status": "pending_manual_payment",
+        "time": "2026-04-08 17:07:30"
+    },
+    "BR-1775678146-362": {
+        "request_id": "BR-1775678146-362",
+        "user_id": 1927811621,
+        "name": "Eretna",
+        "username": "@agevlek",
+        "coin": "LTC",
+        "network": "Litecoin",
+        "usd_amount": 10.0,
+        "status": "pending_manual_payment",
+        "time": "2026-04-08 22:55:46"
+    }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "time": "2026-04-08 18:05:02",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "import_cards",
+        "target_type": "stock",
+        "target_id": "MyPrepaidCenter",
+        "details": "added=1 skipped=27 errors=1"
+    },
+    {
+        "time": "2026-04-09 16:04:54",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "manual_approve",
+        "target_type": "user",
+        "target_id": "5442121415",
+        "details": "hub approval"
+    },
+    {
+        "time": "2026-04-09 16:04:57",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "manual_approve",
+        "target_type": "user",
+        "target_id": "5442121415",
+        "details": "hub approval"
+    },
+    {
+        "time": "2026-04-09 16:09:24",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "addbalance",
+        "target_type": "user",
+        "target_id": "5442121415",
+        "details": "amount=50.0"
+    },
+    {
+        "time": "2026-04-09 16:19:16",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "deliver",
+        "target_type": "order",
+        "target_id": "EE-793789",
+        "details": "hub delivery"
+    },
+    {
+        "time": "2026-04-11 21:16:52",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "import_gift_cards",
+        "target_type": "gift_card",
+        "target_id": "BestBuy",
+        "details": "added=0 errors=2"
+    },
+    {
+        "time": "2026-04-11 21:23:17",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "import_gift_cards",
+        "target_type": "gift_card",
+        "target_id": "BestBuy",
+        "details": "added=2 errors=0"
+    },
+    {
+        "time": "2026-04-12 15:10:41",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "import_cards",
+        "target_type": "stock",
+        "target_id": "Auto-detect",
+        "details": "added=19 skipped=13 errors=3"
+    },
+    {
+        "time": "2026-04-12 15:24:21",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "clean_stock",
+        "target_type": "stock",
+        "target_id": "corrupted",
+        "details": "removed=5 threshold=$10000.0"
+    },
+    {
+        "time": "2026-04-12 15:24:35",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "delete_cards",
+        "target_type": "stock",
+        "target_id": "Unassigned",
+        "details": "deleted=0"
+    },
+    {
+        "time": "2026-04-13 15:24:05",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "deliver",
+        "target_type": "order",
+        "target_id": "EE-461885",
+        "details": "hub delivery"
+    },
+    {
+        "time": "2026-04-13 15:24:13",
+        "admin_user_id": 1927811621,
+        "admin_username": "@agevlek",
+        "admin_name": "Eretna",
+        "action": "deliver",
+        "target_type": "order",
+        "target_id": "EE-663537",
+        "details": "hub delivery"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "time": "2026-04-09 16:09:24",
+        "user_id": 5442121415,
+        "delta": 50.0,
+        "reason": "admin_addbalance",
+        "reference_id": "manual",
+        "actor": "1927811621",
+        "before_balance": 0.0,
+        "after_balance": 50.0
+    },
+    {
+        "time": "2026-04-09 16:18:22",
+        "user_id": 5442121415,
+        "delta": -0.4,
+        "reason": "order_charge",
+        "reference_id": "EE-793789",
+        "actor": "5442121415",
+        "before_balance": 50.0,
+        "after_balance": 49.6
+    },
+    {
+        "time": "2026-04-12 19:49:41",
+        "user_id": 5442121415,
+        "delta": -0.4,
+        "reason": "order_charge",
+        "reference_id": "EE-411071",
+        "actor": "5442121415",
+        "before_balance": 49.6,
+        "after_balance": 49.2
+    },
+    {
+        "time": "2026-04-12 20:16:16",
+        "user_id": 5442121415,
+        "delta": -2.04,
+        "reason": "order_charge",
+        "reference_id": "EE-663537",
+        "actor": "5442121415",
+        "before_balance": 49.2,
+        "after_balance": 47.16
+    },
+    {
+        "time": "2026-04-12 20:16:38",
+        "user_id": 5442121415,
+        "delta": -2.66,
+        "reason": "order_charge",
+        "reference_id": "EE-461885",
+        "actor": "5442121415",
+        "before_balance": 47.16,
+        "after_balance": 44.5
+    },
+    {
+        "time": "2026-04-12 20:16:44",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-972831",
+        "actor": "5442121415",
+        "before_balance": 44.5,
+        "after_balance": 44.11
+    },
+    {
+        "time": "2026-04-12 20:21:35",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-269997",
+        "actor": "5442121415",
+        "before_balance": 44.11,
+        "after_balance": 43.72
+    },
+    {
+        "time": "2026-04-12 20:23:08",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-386838",
+        "actor": "5442121415",
+        "before_balance": 43.72,
+        "after_balance": 43.33
+    },
+    {
+        "time": "2026-04-15 20:49:47",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-793454",
+        "actor": "5442121415",
+        "before_balance": 43.33,
+        "after_balance": 42.94
+    },
+    {
+        "time": "2026-04-15 20:53:53",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-576806",
+        "actor": "5442121415",
+        "before_balance": 42.94,
+        "after_balance": 42.55
+    },
+    {
+        "time": "2026-04-15 20:55:03",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-712873",
+        "actor": "5442121415",
+        "before_balance": 42.55,
+        "after_balance": 42.16
+    },
+    {
+        "time": "2026-04-15 20:56:16",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-498110",
+        "actor": "5442121415",
+        "before_balance": 42.16,
+        "after_balance": 41.77
+    },
+    {
+        "time": "2026-04-15 21:01:52",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-179513",
+        "actor": "5442121415",
+        "before_balance": 41.77,
+        "after_balance": 41.38
+    },
+    {
+        "time": "2026-04-15 21:06:28",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-785474",
+        "actor": "5442121415",
+        "before_balance": 41.38,
+        "after_balance": 40.99
+    },
+    {
+        "time": "2026-04-15 21:11:27",
+        "user_id": 5442121415,
+        "delta": -0.39,
+        "reason": "order_charge",
+        "reference_id": "EE-444342",
+        "actor": "5442121415",
+        "before_balance": 40.99,
+        "after_balance": 40.6
+    },
+    {
+        "time": "2026-04-20 18:49:57",
+        "user_id": 5442121415,
+        "delta": 1.22,
+        "reason": "admin_add_hub",
+        "reference_id": "",
+        "actor": "1927811621",
+        "before_balance": 40.6,
+        "after_balance": 41.82
+    }
+]

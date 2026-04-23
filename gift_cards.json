@@ -1,0 +1,28 @@
+{
+    "GC-1775931797-4470": {
+        "brand": "BestBuy",
+        "code": "code",
+        "amount": 50.0,
+        "currency": "US",
+        "category": "🏪 Other",
+        "status": "available",
+        "reserved_by": null,
+        "reserved_until": null,
+        "added_at": "2026-04-11 21:23:17",
+        "order_id": null,
+        "sold_at": null
+    },
+    "GC-1775931797-1405": {
+        "brand": "BestBuy",
+        "code": "Code",
+        "amount": 25.0,
+        "currency": "US",
+        "category": "🏪 Other",
+        "status": "available",
+        "reserved_by": null,
+        "reserved_until": null,
+        "added_at": "2026-04-11 21:23:17",
+        "order_id": null,
+        "sold_at": null
+    }
+}

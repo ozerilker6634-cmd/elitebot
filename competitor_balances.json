@@ -1,0 +1,22 @@
+{
+    "guru": {
+        "balance": 30.0,
+        "last_updated": "2026-04-20 18:47:02",
+        "notes": "refund EE-376006"
+    },
+    "xstock": {
+        "balance": 30.0,
+        "last_updated": "",
+        "notes": ""
+    },
+    "sharks": {
+        "balance": 0.0,
+        "last_updated": "",
+        "notes": ""
+    },
+    "planet": {
+        "balance": 0.0,
+        "last_updated": "",
+        "notes": ""
+    }
+}
